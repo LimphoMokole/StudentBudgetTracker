@@ -1,0 +1,7 @@
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\bin\Debug\ProjectPRJ271.exe.config
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\bin\Debug\ProjectPRJ271.exe
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\bin\Debug\ProjectPRJ271.pdb
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\obj\Debug\StudentBudgetTracker.csproj.AssemblyReference.cache
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\obj\Debug\StudentBudgetTracker.csproj.CoreCompileInputs.cache
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\obj\Debug\ProjectPRJ271.exe
+C:\Users\Limpho\OneDrive - belgiumcampus.ac.za\Desktop\StudentBudgetTracker\ProjectPRJ271\obj\Debug\ProjectPRJ271.pdb
